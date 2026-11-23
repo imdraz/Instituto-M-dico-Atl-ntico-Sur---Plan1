@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+  <rect width="400" height="500" fill="#e5e7eb"/>
+  <circle cx="200" cy="190" r="80" fill="#9ca3af"/>
+  <path d="M60 500 Q60 330 200 330 Q340 330 340 500 Z" fill="#9ca3af"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Arial" font-size="24" fill="#4b5563">Foto provisoria</text>
+</svg>
